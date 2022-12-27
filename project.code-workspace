@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/js"
+		},
+		{
+			"path": "D:/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BAKERZ BITE sem project",
+		"liveServer.settings.port": 5501
+	}
+}
