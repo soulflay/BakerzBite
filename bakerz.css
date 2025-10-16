@@ -946,37 +946,37 @@ text-decoration: none;
 
  /* Form text File */
 
-  .text {
-    padding: 10px;
-    background-color: #f6f2f2;
-    overflow: hidden;
-  }
-  .text input[type="text"],
-  textarea,
-  select {
-    font: 15px Calibri;
-    display: flex;
-    width: 80%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-family: 'Poppins', sans-serif;
-  }
-  .text input[type="button"] {
-    font: 15.5px Calibri;
-    width: auto;
-    float: right;
-    cursor: pointer;
-    padding: 7px;
-    font-family: 'Poppins', sans-serif;
-  }
+.text {
+  padding: 10px;
+  background-color: #f6f2f2;
+  overflow: hidden;
+}
+.text input[type="text"],
+textarea,
+select {
+  font: 15px Calibri;
+  display: flex;
+  width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: 'Poppins', sans-serif;
+}
+.text input[type="button"] {
+  font: 15.5px Calibri;
+  width: auto;
+  float: right;
+  cursor: pointer;
+  padding: 7px;
+  font-family: 'Poppins', sans-serif;
+}
 /* Form text File ends here */
 
 /*faq starts here*/
 .faq-container .row .faq-wrapper{
   padding: 100px;
   width: 50rem;
-  height: 40rem;
+  max-height: 100%;
 }
 
 .faq-container .row .faq-wrapper .headz h1{
