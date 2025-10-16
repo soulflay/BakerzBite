@@ -1,4 +1,4 @@
-BakerzBite 🍞🥐
+BakerzBite 
 
 Welcome to **BakerzBite** — a sweet little corner of the web where design meets dessert!  
 This project is a simple yet inviting bakery website, crafted to showcase baked goods with warmth and style.
